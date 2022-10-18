@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on someone's life who can stay with me forever 🙂
 - 🤔 I’m looking for help by marrying someone and settle my life with her 🙂
 - 💬 Ask me about : HTML, CSS, JS, nodeJs, expressJs, mongoDB and other Computer literacies.
-- 📫 How to reach me: <strong>Xtend Ettisaf - </strong> <a href="https://www.facebook.com/xtend.etti.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xtend ettisaf" height="30" width="40" /></a>
+- 📫 How to reach me: <strong>ettisafrup@gmail.com</strong>
 - 😄 Pronouns: Etti <3
 - ⚡ Fun fact: Love to eat foods :P
 
