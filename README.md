@@ -1,6 +1,7 @@
-### Hi there 👋
-#### Readme Page under Development :P
-<!--
+### As salamu alaikum 🖤
+#### Ettisaf Rup
+(https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/296558356_579102957055570_5173147617203699803_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=dERnuC61pc4AX-23yLJ&_nc_ht=scontent.fdac5-1.fna&oh=00_AT-lb7yVvL4gSRvUHCYMhDG5pygZKSp76rx5v3GP1TJvkg&oe=6352E417)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,4 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
