@@ -1,5 +1,5 @@
 # As salamu alaikum 🖤
-## Bangaldeshi Javascripter 🇧🇩
+## Bangaldeshi 🇧🇩
 #### - Nothing can explain me better than an explorer
 
 ![png_20221110_234802_0000](https://user-images.githubusercontent.com/107711625/201172212-ee4cc5ce-d521-4491-b5c4-7aa8ad94365e.png)
