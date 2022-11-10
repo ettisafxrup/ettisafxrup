@@ -3,6 +3,8 @@
 #### - Nothing can explain me better than an explorer
 <img src="https://i.ibb.co/VQY46wq/png-20221110-234802-0000.png" style="height:100%;" alt="png-20221110-234802-0000" border="0" />
 
+<img src="https://camo.githubusercontent.com/e1eecf12daa064e3ac5295d4e398d2ace72d759f924f90e93e6aa73ee6b81378/68747470733a2f2f692e6962622e636f2f565159343677712f706e672d32303232313131302d3233343830322d303030302e706e67" data-canonical-src="https://i.ibb.co/VQY46wq/png-20221110-234802-0000.png" width="200" height="400" />
+
 - 🔭 I’m currently working on my Life 🙂
 - 🌱 I’m currently learning how to shine in life. 🙂
 - 👯 I’m looking to collaborate on someone's life who can stay with me forever 🙂
