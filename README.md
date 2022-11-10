@@ -1,17 +1,9 @@
 # As salamu alaikum 🖤
-## Bangaldeshi 🇧🇩
 #### - Nothing can explain me better than an explorer
 
 ![png_20221110_234802_0000](https://user-images.githubusercontent.com/107711625/201172212-ee4cc5ce-d521-4491-b5c4-7aa8ad94365e.png)
 
-- 🔭 I’m currently working on my Life 🙂
-- 🌱 I’m currently learning how to shine in life. 🙂
-- 👯 I’m looking to collaborate on someone's life who can stay with me forever 🙂
-- 🤔 I’m looking for help by marrying someone and settle my life with her 🙂
-- 💬 Ask me about : HTML, CSS, JS, nodeJs, expressJs, mongoDB and other Computer literacies.
-- 📫 How to reach me: <strong>ettisafrup@gmail.com</strong>
-- 😄 Pronouns: Etti <3
-- ⚡ Fun fact: Love to eat foods :P
+- 🇧🇩 Bangaldeshi 
 
 
 <h3 align="left">Connect with me:</h3>
