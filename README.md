@@ -1,7 +1,7 @@
 # As salamu alaikum 🖤
 ## Ettisaf Rup 
 #### - Nothing can explain me better than an explorer
-<img src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/296558356_579102957055570_5173147617203699803_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=dERnuC61pc4AX-23yLJ&_nc_ht=scontent.fdac5-1.fna&oh=00_AT-lb7yVvL4gSRvUHCYMhDG5pygZKSp76rx5v3GP1TJvkg&oe=6352E417" >
+<img src="https://i.ibb.co/VQY46wq/png-20221110-234802-0000.png" >
 
 - 🔭 I’m currently working on my Life 🙂
 - 🌱 I’m currently learning how to shine in life. 🙂
