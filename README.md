@@ -1,7 +1,6 @@
 # As salamu alaikum 🖤
 #### - Nothing can explain me better than an explorer
-![ettisaf's github stats](https://github-readme-stats.vercel.app/api?username=ettisafrup&count_private=true&theme=tokyonight&hide=contribs,prs)
-![png_20221110_234802_0000](https://user-images.githubusercontent.com/107711625/201172212-ee4cc5ce-d521-4491-b5c4-7aa8ad94365e.png)
+
 - 🇧🇩 Bangaldeshi 
 
 
@@ -20,3 +19,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </center>
+
+
+![ettisaf's github stats](https://github-readme-stats.vercel.app/api?username=ettisafrup&count_private=true&theme=tokyonight&hide=contribs,prs)
+![png_20221110_234802_0000](https://user-images.githubusercontent.com/107711625/201172212-ee4cc5ce-d521-4491-b5c4-7aa8ad94365e.png)
