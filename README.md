@@ -1,9 +1,7 @@
 # As salamu alaikum 🖤
 #### - Nothing can explain me better than an explorer
-<div align="center"> 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=ettisafrup&count_private=true&theme=tokyonight&hide=contribs,prs)
+![ettisaf's github stats](https://github-readme-stats.vercel.app/api?username=ettisafrup&count_private=true&theme=tokyonight&hide=contribs,prs)
 ![png_20221110_234802_0000](https://user-images.githubusercontent.com/107711625/201172212-ee4cc5ce-d521-4491-b5c4-7aa8ad94365e.png)
-</div>
 - 🇧🇩 Bangaldeshi 
 
 
