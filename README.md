@@ -1,9 +1,6 @@
-# As salamu alaikum 🖤
-#### - Nothing can explain me better than an explorer
+#### - Peace be upon you
 
-- 🇧🇩 Bangaldeshi 
-
-![png_20221110_234802_0000](https://user-images.githubusercontent.com/107711625/201172212-ee4cc5ce-d521-4491-b5c4-7aa8ad94365e.png)
+- 🇧🇩
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
