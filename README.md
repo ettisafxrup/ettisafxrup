@@ -1,5 +1,5 @@
 #### Hey, Peace be upon you!
- — ❝ Myself Ettisaf Rup, a passioniate programmer and a tech enthusiast. I love codes ❞ 🇧🇩
+ — ❝ Myself Ettisaf Rup, a passioniate programmer and a tech enthusiast. I love terminal ❞ 🇧🇩
  
 » 👨🏻‍🎓 | 💻 | ☕ | 🎵 | 📘 «
 
