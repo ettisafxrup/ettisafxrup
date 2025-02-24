@@ -1,7 +1,10 @@
-#### Hey, Peace be upon you!
+#### Peace be upon you!
  — ❝ Myself Ettisaf Rup, a passioniate programmer and a tech enthusiast. I love terminal ❞ 🇧🇩
  
 » 👨🏻‍🎓 | 💻 | ☕ | 🎵 | 📘 «
+
+<h3 align="left">❝Work Showcase❞ Repository <a href="[https://twitter.com/ettisafrup](https://github.com/EttisafRup/showcase/)" target="blank">here!</a>
+</h3>
 
 <h3 align="left">Social Accounts:</h3>
 <p align="left">
