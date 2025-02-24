@@ -3,7 +3,7 @@
  
 » 👨🏻‍🎓 | 💻 | ☕ | 🎵 | 📘 «
 
-<h3 align="left">❝Work Showcase❞ Repository <a href="[https://twitter.com/ettisafrup](https://github.com/EttisafRup/showcase/)" target="blank">here!</a>
+<h3 align="left">❝Work Showcase❞ Repository <a href="https://github.com/EttisafRup/showcase/" target="blank">here!</a>
 </h3>
 
 <h3 align="left">Social Accounts:</h3>
