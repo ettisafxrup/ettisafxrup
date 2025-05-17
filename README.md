@@ -51,8 +51,9 @@ Passionate about learning, exploring and understanding how things work under the
 </div>
 
 ##
-<div align="center">
+<div align="center" style="font-size: 8px;">
 <a href="https://ettisafxrup.netlify.app/">Web Portfolio</a>
 </div>
+
 ###
 
