@@ -7,6 +7,7 @@
 Passionate about learning, exploring and understanding how things work under the hood. Enthusiastic about building efficient, scalable, meaningful and innovative solutions. Known for being a fast learner, team player, and someone who blends the mess.
 
 ##
+<br>
 
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZmcjBsOWxtNTNhcDB6ZnA0a2ZjaDNwejBvdG55bTZxdzk2d2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.webp"  />
 
