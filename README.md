@@ -51,6 +51,6 @@ Passionate about learning, exploring and understanding how things work under the
 </div>
 
 ##
-<a href="https://ettisafxrup.netlify.app/">web_portfolio</a>
+<a align="center" href="https://ettisafxrup.netlify.app/">web_portfolio</a>
 ###
 
