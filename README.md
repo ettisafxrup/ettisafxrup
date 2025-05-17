@@ -1,7 +1,7 @@
 <h1 align="left">Assalamualaikum!😃 </h1>
-<h2>Ettisaf Rup,</h2>
+## Ettisaf Rup,
 ### Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | MERN Stack
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ettisafxrup&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
