@@ -2,6 +2,7 @@
 
 ### Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | MERN Stack 
 
+<b>Aspiring Computer Engineer</b>, Undergraduate at <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding. Passionate about learning how things work under the hood and eager to build efficient, scalable, meaningful and innovative solutions. Known for being a fast learner, team player, and someone who blends the mess.
 
 ###
 
