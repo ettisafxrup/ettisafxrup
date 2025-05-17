@@ -1,7 +1,7 @@
 <h1 align="left">Assalamualaikum!😃 </h1>
 
 ### Ettisaf Rup,
-#### Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | MERN Stack
+<b> Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | MERN Stack </b>
 
 ###
 
