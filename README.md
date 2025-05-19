@@ -1,4 +1,4 @@
-<h1 align="left">Assalamualaikum!🗿 </h1>
+<h1 align="left">Assalamualaikum!🤍 </h1>
 
 ### Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | MERN Stack 
 
