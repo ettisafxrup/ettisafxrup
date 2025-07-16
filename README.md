@@ -1,6 +1,9 @@
 <h1 align="left">Assalamualaikum!🤍 </h1>
 
-### Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | MERN Stack 
+### Computer Science Aficionado | Software Engineering | AI/ML Enthusiast | Node.js — Python — C++
+
+Khulna University of Engineering and Technology
+Rajshahi, Bangladesh  Contact info
 
 — <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding.
 <br>
