@@ -2,9 +2,6 @@
 
 ### Computer Science Aficionado | Software Engineering | Systems and Architecture | Node.js — Python — C++
 
-Khulna University of Engineering and Technology
-Rajshahi, Bangladesh  Contact info
-
 — <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding.
 <br>
 Passionate about learning, exploring and understanding how things work under the hood. Enthusiastic about building efficient, scalable, meaningful and innovative solutions. Known for being a fast learner, team player, and someone who blends the mess.
