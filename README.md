@@ -1,6 +1,6 @@
 <h1 align="left">Assalamualaikum!🤍 </h1>
 
-### Computer Science Aficionado | Software Engineering | Systems and Architecture | Node.js — Python — C++
+### Computer Science Aficionado | Software Engineering | Systems and Architecture | Node.js — Python — Go
 
 — <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding.
 <br>
