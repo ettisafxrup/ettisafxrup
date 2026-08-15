@@ -1,8 +1,9 @@
-<h1 align="left">Assalamualaikum!🤍 </h1>
+<h1 align="left">Greetings!🤍 </h1>
+<small><b> Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ </b></small>
 
-### Computer Science Aficionado | Software Engineering | Systems and Architecture | Node.js — Python — Go
+### Computer Science Aficionado | Software Crew | Into Systems and Architectures | Bachelors' Undergrad | Literatures and Music
 
-— <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding.
+🦋 <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding.
 <br>
 Passionate about learning, exploring and understanding how things work under the hood. Enthusiastic about building efficient, scalable, meaningful and innovative solutions. Known for being a fast learner, team player, and someone who blends the mess.
 
@@ -29,13 +30,6 @@ Passionate about learning, exploring and understanding how things work under the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
 
 </div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ettisafxrup&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.youtube.com/@rupbhaiya" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
