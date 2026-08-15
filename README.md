@@ -1,5 +1,4 @@
-<h1 align="left">Greetings!🤍 </h1>
-<small><b> Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ </b></small>
+<h1 align="left">Greetings!🤍 </h1> <small><b> Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ </b></small>
 
 ### Computer Science Aficionado | Software Crew | Into Systems and Architectures | Bachelors' Undergrad | Literatures and Music
 
