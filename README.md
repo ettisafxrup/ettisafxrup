@@ -1,12 +1,12 @@
 <h1 align="left">Greetings!🤍 </h1> <small><b> Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ </b></small>
 
-### Computer Science Aficionado | Software Crew | Into Systems and Architectures | Bachelors' Undergrad | Literatures and Music
+### Computer Science Aficionado | Software Engineering Crew | Programming Instructor | Bachelors' Undergrad | Literatures and Music
 
-🦋 <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding.
-<br>
+🦋 <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding. <br>
 Passionate about learning, exploring and understanding how things work under the hood. Enthusiastic about building efficient, scalable, meaningful and innovative solutions. Known for being a fast learner, team player, and someone who blends the mess.
 
 ##
+
 <br>
 
 <img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZmcjBsOWxtNTNhcDB6ZnA0a2ZjaDNwejBvdG55bTZxdzk2d2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.webp"  />
@@ -41,3 +41,89 @@ Passionate about learning, exploring and understanding how things work under the
 
 ###
 
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,mongodb,redis" />
+
+### Tools & Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake" />
+
+</div>
+
+<br>
+
+## ⚙️ Comforted Engineering Fields
+
+<div align="center">
+
+### 🖥️ Systems Engineering
+
+<img src="https://skillicons.dev/icons?i=c,cpp,linux" />
+
+<br>
+
+C / C++ · File Systems · Computer Architecture · System Utilities
+
+<br><br>
+
+### ☁️ Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,redis" />
+
+<br>
+
+REST APIs · Backend Services · Data & Caching
+
+<br><br>
+
+### 🏗️ Software Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+<br>
+
+Software Architecture · OOP · CI/CD · Build & Release Engineering
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+
+<img src="./profile/top-langs.svg" height="170" alt="Most Used Languages" />
+
+</div>
+
+## 🌐 Find Me Around the Internet
+
+<div align="center">
+
+<a href="https://github.com/ettisafxrup">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ettisafxrup/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@rupbhaiya">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:ettisafrup@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
