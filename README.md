@@ -75,7 +75,7 @@ Passionate about learning, exploring and understanding how things work under the
 
 C / C++ · File Systems · Computer Architecture · System Utilities
 
-<br><br>
+<br>
 
 ### ☁️ Backend Engineering
 
@@ -85,7 +85,7 @@ C / C++ · File Systems · Computer Architecture · System Utilities
 
 REST APIs · Backend Services · Data & Caching
 
-<br><br>
+<br>
 
 ### 🏗️ Software Engineering
 
