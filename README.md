@@ -2,8 +2,7 @@
 
 ### Computer Science Aficionado | Software Engineering Crew | Programming Instructor | Bachelors' Undergrad | Literatures and Music
 
-🦋 <b>Aspiring Computer Engineer</b>, Undergraduate at <b>B.Sc, CSE</b> | <b>KUET</b> with a strong foundation in programming, problem-solving, and system-level understanding. <br>
-Passionate about learning, exploring and understanding how things work under the hood. Enthusiastic about building efficient, scalable, meaningful and innovative solutions. Known for being a fast learner, team player, and someone who blends the mess.
+🦋 I’m <b>Ettisaf Rup</b>, a Computer Science undergraduate at Khulna University of Engineering and Technology, passionate about software, hardware and system level engineering and development. I enjoy turning complex problems into practical, reliable software while exploring backend engineering, low-level systems, and computer science fundamentals. I’m driven to build robust systems and grow into a versatile software engineer.
 
 ##
 
