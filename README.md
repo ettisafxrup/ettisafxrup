@@ -17,20 +17,16 @@
 
 ## 🎓 Engineering Caps
 
-<table>
+<table align="center" border="0" cellspacing="0" cellpadding="12">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🛠️ Tech Signatures
 
 #### 🌆 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go" />
-
-<small>
-
-</small>
 
 #### 🧱 Development
 
@@ -42,7 +38,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### ⚙️ Familiar Fields
 
@@ -54,11 +50,12 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb,redis,go" />
 
-<p style="margin-top:23.5%;"></p>
+<br><br>
 
 #### 🏗️ Software Engineering
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,bash" />
+
 </td>
 
 </tr>
