@@ -28,44 +28,78 @@ software engineer.
 
 ## 🎓 Engineering Caps
 
-<table align="center" border="0" cellpadding="12" cellspacing="0">
+<table
+  align="center"
+  border="0"
+  cellpadding="20"
+  cellspacing="0"
+  frame="void"
+  rules="none"
+  style="border: 0 !important; border-collapse: collapse !important;"
+>
 <tr>
 
-<td width="50%" valign="top" align="center" style="border: none !important;">
+<td
+  width="50%"
+  align="center"
+  valign="top"
+  style="border: 0 !important; border-top: 0 !important; border-bottom: 0 !important; border-left: 0 !important; border-right: 0 !important;"
+>
 
-### 🛠️ Tech Signatures
+<h3>🛠️ Tech Signatures</h3>
 
-#### 🌆 Languages
+<h4>🌆 Languages</h4>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go" alt="Programming Languages">
+<img
+  src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go"
+  alt="Languages"
+/>
 
-#### 🧱 Development
+<h4>🧱 Development</h4>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,react,electron,vite,bootstrap,tailwind,mongodb,firebase,supabase,redis&perline=6" alt="Development Technologies">
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,nest,react,electron,vite,bootstrap,tailwind,mongodb,firebase,supabase,redis&perline=6"
+  alt="Development"
+/>
 
-#### 💉 Engineering Tools
+<h4>💉 Engineering Tools</h4>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake,githubactions,npm,vercel,netlify,cloudflare&perline=6" alt="Engineering Tools">
+<img
+  src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake,githubactions,npm,vercel,netlify,cloudflare&perline=6"
+  alt="Engineering Tools"
+/>
 
 </td>
 
-<td width="50%" valign="top" align="center" style="border: none !important;">
+<td
+  width="50%"
+  align="center"
+  valign="top"
+  style="border: 0 !important; border-top: 0 !important; border-bottom: 0 !important; border-left: 0 !important; border-right: 0 !important;"
+>
 
-### ⚙️ Familiar Fields
+<h3>⚙️ Familiar Fields</h3>
 
-#### 🖥️ Systems Engineering
+<h4>🖥️ Systems Engineering</h4>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" alt="Systems Engineering">
+<img
+  src="https://skillicons.dev/icons?i=c,cpp,linux,bash"
+  alt="Systems Engineering"
+/>
 
-#### ☁️ Backend Engineering
+<h4>☁️ Backend Engineering</h4>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb,redis,go" alt="Backend Engineering">
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb,redis,go"
+  alt="Backend Engineering"
+/>
 
-<br>
+<h4 style="margin-top: 24%;">🏗️ Software Engineering</h4>
 
-#### 🏗️ Software Engineering
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,bash" alt="Software Engineering">
+<img
+  src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,bash"
+  alt="Software Engineering"
+/>
 
 </td>
 
