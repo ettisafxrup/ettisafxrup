@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ettisaf Rup&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 217, Total Commits  : 908, Total PRs: 12, Total Issues: 2, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 208, Total Commits  : 909, Total PRs: 12, Total Issues: 2, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 132.0872476821721;
+        stroke-dashoffset: 132.6195566365817;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >217</text>
+      >208</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >908</text>
+      >909</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >22</text>
+      >23</text>
     </g>
   </g>
     </svg>
