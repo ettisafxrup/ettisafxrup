@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  🦋 Computer Science Aficionado · Software Engineering Crew · Programming Instructor · Bachelor's Undergrad · Literatures & Music
+  🦋 CSE@KUET | Founding President @Forkship | Managing @NeelaOS & @CleftuneStream | Computer Science Aficionado | Literatures and Music
 </h3>
 
 <br>
