@@ -1,8 +1,12 @@
 # Greetings! 🤍
 
-<small><b>Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ</b></small>
+<p align="center">
+  <b>Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ</b>
+</p>
 
-### 🦋 Computer Science Aficionado | Software Engineering Crew | Programming Instructor | Bachelor's Undergrad | Literatures & Music
+<h3 align="center">
+  🦋 Computer Science Aficionado · Software Engineering Crew · Programming Instructor · Bachelor's Undergrad · Literatures & Music
+</h3>
 
 <br>
 
@@ -26,6 +30,8 @@ software engineer.
 
 <br clear="right">
 
+---
+
 ## 🎓 Engineering Caps
 
 <table
@@ -38,124 +44,81 @@ software engineer.
   style="border: 0 !important; border-collapse: collapse !important;"
 >
 <tr>
-
-<td
-  width="50%"
-  align="center"
-  valign="top"
-  style="border: 0 !important; border-top: 0 !important; border-bottom: 0 !important; border-left: 0 !important; border-right: 0 !important;"
->
+<td width="50%" align="center" valign="top" style="border: 0 !important;">
 
 <h3>🛠️ Tech Signatures</h3>
 
 <h4>🌆 Languages</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go"
-  alt="Languages"
-/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go" alt="Languages" />
 
 <h4>🧱 Development</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,nest,react,electron,vite,bootstrap,tailwind,mongodb,firebase,supabase,redis&perline=6"
-  alt="Development"
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,electron,vite,bootstrap,tailwind,mongodb,firebase,supabase,redis&perline=6" alt="Development" />
 
 <h4>💉 Engineering Tools</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake,githubactions,npm,vercel,netlify,cloudflare&perline=6"
-  alt="Engineering Tools"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake,githubactions,npm,vercel,netlify,cloudflare&perline=6" alt="Engineering Tools" />
 
 </td>
 
-<td
-  width="50%"
-  align="center"
-  valign="top"
-  style="border: 0 !important; border-top: 0 !important; border-bottom: 0 !important; border-left: 0 !important; border-right: 0 !important;"
->
+<td width="50%" align="center" valign="top" style="border: 0 !important;">
 
 <h3>⚙️ Familiar Fields</h3>
 
 <h4>🖥️ Systems Engineering</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=c,cpp,linux,bash"
-  alt="Systems Engineering"
-/>
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" alt="Systems Engineering" />
 
 <h4>☁️ Backend Engineering</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb,redis,go"
-  alt="Backend Engineering"
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,redis,go" alt="Backend Engineering" />
 
-<h4 style="margin-top: 24%;">🏗️ Software Engineering</h4>
+<h4>🏗️ Software Engineering</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,bash"
-  alt="Software Engineering"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,bash" alt="Software Engineering" />
 
 </td>
-
 </tr>
 </table>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="150" alt="GitHub Stats">
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="./profile/top-langs.svg" height="150" alt="Most Used Languages">
+  <img src="./profile/top-langs.svg" height="150" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🧩 Find Me Around the Internet
+
+<p align="center">
+  <a href="https://github.com/ettisafxrup">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ettisafxrup/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@rupbhaiya">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/ettisafxrup/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/ettisafxrup">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discord.com/users/ettisafxrup">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 <br>
 
-## 🧩 Find Me Around the Internet
-
-<table align="center" border="0" cellpadding="6" cellspacing="0">
-<tr>
-<td style="border: none !important;">
-<a href="https://github.com/ettisafxrup" title="@ettisafxrup">
-<img src="https://api.iconify.design/skill-icons:github-dark.svg" width="28" height="28" alt="GitHub">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://www.linkedin.com/in/ettisafxrup/" title="@ettisafxrup">
-<img src="https://api.iconify.design/logos:linkedin-icon.svg" width="28" height="28" alt="LinkedIn">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://www.youtube.com/@rupbhaiya" title="@rupbhaiya">
-<img src="https://api.iconify.design/logos:youtube-icon.svg" width="28" height="28" alt="YouTube">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://www.instagram.com/ettisafxrup/" title="@ettisafxrup">
-<img src="https://api.iconify.design/skill-icons:instagram.svg" width="28" height="28" alt="Instagram">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://www.facebook.com/ettisafxrup" title="@ettisafxrup">
-<img src="https://api.iconify.design/logos:facebook.svg" width="28" height="28" alt="Facebook">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://discord.com/users/ettisafxrup" title="@ettisafxrup">
-<img src="https://api.iconify.design/skill-icons:discord.svg" width="28" height="28" alt="Discord">
-</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>Building, breaking, learning, and engineering — one commit at a time.</i>
+</p>
